@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32901.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Övning Arv + Ploymorphism 20221025 SUT22 ANAS", "Övning Arv + Ploymorphism 20221025 SUT22 ANAS\Övning Arv + Ploymorphism 20221025 SUT22 ANAS.csproj", "{8A456B54-6A83-4E29-B28D-DAA389B0892B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A456B54-6A83-4E29-B28D-DAA389B0892B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A456B54-6A83-4E29-B28D-DAA389B0892B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A456B54-6A83-4E29-B28D-DAA389B0892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A456B54-6A83-4E29-B28D-DAA389B0892B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87FBCAE1-D37D-4B30-8F28-FA45C1AB6B4D}
+	EndGlobalSection
+EndGlobal
